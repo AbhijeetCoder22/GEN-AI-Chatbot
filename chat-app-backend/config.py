@@ -17,4 +17,4 @@ TOKEN_MINUTE = 30
 ENCRYPTION_KEY = JWT_SECRET_KEY = "GenAicHatBot" + str(uuid.getnode())
 
 
-GOOGLE_GEN_AI_API_KEY = "AIzaSyBrnYk20piqyyfo15cnC7M0JGo5faT3T48"
+GOOGLE_GEN_AI_API_KEY = ""
